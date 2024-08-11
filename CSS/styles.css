@@ -23,7 +23,7 @@ body {
 }
 
 .principal {
-    background-image: url("./assets/Background.png");
+    background-image: url("./assets/Background.png"); /* O background-image equivale a tag img do HTML*/
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
