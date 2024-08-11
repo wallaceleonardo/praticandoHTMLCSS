@@ -13,6 +13,9 @@
 ## Screenshots
 ![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png)
 
+## Figma com o protótipo do Alura Plus
+https://www.figma.com/design/01JSgL77Hf3mBMn51VrjBX/Alura-Plus---Layout?node-id=0-1&t=IX7NLHKYLORiPbs8-0
+
 ## Artigos Alura
 * O que é HTML e suas tags?
 https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-1-estrutura-basica
