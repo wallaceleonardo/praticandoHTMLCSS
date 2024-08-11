@@ -1,3 +1,4 @@
+/* Variáveis CSS */
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
@@ -15,13 +16,14 @@ body {
     font-weight: 400;
 }
 
+/* Resetando a tela */
 * {
     margin: 0;
     padding: 0;
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("./assets/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
