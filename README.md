@@ -34,3 +34,6 @@ https://www.alura.com.br/artigos/guia-de-unidades-no-css
 
 * Criando Layouts com CSS Grid Layout
 https://www.alura.com.br/artigos/criando-layouts-com-css-grid-layout
+
+* Pare de chutar e aprenda como funciona o display: inline-block
+https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-o-display-inline-block-4e6cba2f19d4
