@@ -37,3 +37,15 @@ https://www.alura.com.br/artigos/criando-layouts-com-css-grid-layout
 
 * Pare de chutar e aprenda como funciona o display: inline-block
 https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-o-display-inline-block-4e6cba2f19d4
+
+* Como criar um README para o seu perfil do GitHub?
+https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
+
+* Como escrever um README incrível no seu Github?
+https://www.alura.com.br/artigos/escrever-bom-readme
+
+* Como colocar seu projeto no ar com o Github Pages?
+https://www.alura.com.br/artigos/como-colocar-projeto-no-ar-com-github-pages
+
+* Srcset: Trabalhando com imagens responsivas
+https://www.alura.com.br/artigos/srcset-trabalhando-imagens-responsivas
